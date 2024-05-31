@@ -12,8 +12,10 @@ public class Constants {
         COMMAND_MAP.put("friday", new Friday());
         COMMAND_MAP.put("swirebroke", new Swirebroke());
         COMMAND_MAP.put("pp", new PP());
+        COMMAND_MAP.put("gay", new Gay());
         COMMAND_MAP.put("warf", new Warf());
         COMMAND_MAP.put("allcommands", new AllCommands());
         COMMAND_MAP.put("sheesh", new Sheesh());
+        COMMAND_MAP.put("weather", new Weather());
     }
 }
